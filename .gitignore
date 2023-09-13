@@ -22,6 +22,7 @@ temp
 # Prisma
 prisma/migrations
 prisma/migrations/*
+prisma/dev.db
 
 # Editor directories and files
 .vscode/*
